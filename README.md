@@ -2,13 +2,16 @@
 
 Разработка интерактивного BI-дашборда в Yandex DataLens по данным посещаемости мастер-классов ($n = 250$).
 
-**Инструменты и стек:** Yandex DataLens, Excel, визуализация данных, анализ данных
+**Инструменты и стек:** Yandex DataLens, Excel, визуализация данных, анализ данных  
+**Интерактивный дашборд:** [открыть в Yandex DataLens](https://datalens.yandex/uxf7f92g5bsid?_share_link=public)
 
 ---
 
 ## Дашборд
 
-![Дашборд — Клуб по интересам](./images/dashboard.jpg)
+[![Дашборд — Клуб по интересам](./images/dashboard.jpg)](https://datalens.yandex/uxf7f92g5bsid?_share_link=public)
+
+*Нажмите на скриншот, чтобы открыть интерактивную версию с работающими фильтрами.*
 
 ---
 
